@@ -43,6 +43,7 @@ We invite submissions on the following topics:
 #### Submission process
 
 Submission to the TerraBytes workshop is **double-blind**. The workshop accepts short research papers (4 pages, excluding references) and full-length papers (8 pages, excluding references). Authors are required to follow standard ICML paper format ([LaTeX style files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)).
+
 ** We also accept datasets and research papers already published in the last 6 months. Please submit such works as a summarized four-page short paper. 
 
 All submissions should be submitted through [Open-Review](https://openreview.net/group?id=ICML.cc/2025/Conference#tab-recent-activity) before the deadline (see important dates below). 
