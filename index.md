@@ -4,6 +4,17 @@ layout: page
 # *TerraBytes - Towards global datasets and models for Earth Observation*
 {% include figure.html img="organizers.jpg" alt="sponsors" width="150%" %}
 ---
+
+<div class="buttons" id="sticky-nav">
+  <a class="button" href="#about">About</a>
+  <a class="button" href="#call-for-submissions">Submit</a>
+<!--   <a class="button" href="#accepted-works">Accepted Works</a>
+  <a class="button" href="#schedule">Schedule</a>
+<!--   <a class="button" href="#speakers">Speakers</a> -->
+  <a class="button" href="#organizers">Organizers</a>
+  <a class="button" href="#sponsors">Sponsors</a> -->
+</div>
+
 ### About the workshop
 
 Earth Observation (EO) presents unique challenges and opportunities that set it apart from other fields of machine learning
@@ -20,6 +31,8 @@ ecology, geosciences, agriculture, urban planning, etc. (Kattenborn et al., 2022
 
 TerraBytes is an initiative to address these challenges. At the intersection of data curation, data archiving, and representation learning, this workshop will
 foster a holistic discussion covering major steps in the EO from downlinked satellite data, training paradigms to downstream applications. 
+
+<h2 id="call-for-submissions">Call for submissions</h2>
 
 ### Call for submissions
 We invite submissions on the following topics:
@@ -93,12 +106,6 @@ It is expected that at least one author of each accepted paper will register for
 * [Ritu Yadav, KTH Royal Institute of Technology](https://www.linkedin.com/in/ritu-yadav-5a810158/)
 
 **Primary Contacts**: Valerio Marsocci (valerio.marsocci@esa.int), Nicolas Audebert (nicolas.audebert@ign.fr)
-
-
-### Program Committee
----
-
-To be announced.
 
 ### Sponsors
 ------
