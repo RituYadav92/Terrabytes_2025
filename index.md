@@ -7,7 +7,7 @@ layout: page
 
 <div class="buttons" id="sticky-nav">
   <a class="button" href="#call-for-submissions">Submission Process</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a class="button" href="#dates">Important dates</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a class="button" href="#dates">Important dates*</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a class="button" href="#schedule">Workshop Schedule</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a class="button" href="#speakers">Speakers</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a class="button" href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;
