@@ -6,11 +6,11 @@ layout: page
 ---
 
 <div class="buttons" id="sticky-nav">
-  <a class="button" href="#call-for-submissions">Submit</a>
-  <a class="button" href="#dates">Important dates</a>
-  <a class="button" href="#schedule">Schedule</a>
-  <a class="button" href="#speakers">Speakers</a>
-  <a class="button" href="#organizers">Organizers</a>
+  <a class="button" href="#call-for-submissions">Submission Process</a>&nbsp;&nbsp;
+  <a class="button" href="#dates">Important dates</a>&nbsp;&nbsp;
+  <a class="button" href="#schedule">Workshop Schedule</a>&nbsp;&nbsp;
+  <a class="button" href="#speakers">Speakers</a>&nbsp;&nbsp;
+  <a class="button" href="#organizers">Organizers</a>&nbsp;&nbsp;
   <a class="button" href="#sponsors">Sponsors</a>
 </div>
 
@@ -108,7 +108,7 @@ TBA
 
 **Primary Contacts**: Valerio Marsocci (valerio.marsocci@esa.int), Nicolas Audebert (nicolas.audebert@ign.fr)
 
-<h3 id="sponsers">Sponsers</h3>
+<h3 id="sponsors">Sponsers</h3>
 ------
 
 We thank CopernicusLAC for their sponsorship of this event.
