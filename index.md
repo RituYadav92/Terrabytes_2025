@@ -6,13 +6,12 @@ layout: page
 ---
 
 <div class="buttons" id="sticky-nav">
-  <a class="button" href="#about">About</a>
   <a class="button" href="#call-for-submissions">Submit</a>
-<!--   <a class="button" href="#accepted-works">Accepted Works</a>
+  <a class="button" href="#dates">Important dates</a>
   <a class="button" href="#schedule">Schedule</a>
-<!--   <a class="button" href="#speakers">Speakers</a> -->
+  <a class="button" href="#speakers">Speakers</a>
   <a class="button" href="#organizers">Organizers</a>
-  <a class="button" href="#sponsors">Sponsors</a> -->
+  <a class="button" href="#sponsors">Sponsors</a>
 </div>
 
 ### About the workshop
@@ -33,8 +32,6 @@ TerraBytes is an initiative to address these challenges. At the intersection of 
 foster a holistic discussion covering major steps in the EO from downlinked satellite data, training paradigms to downstream applications. 
 
 <h2 id="call-for-submissions">Call for submissions</h2>
-
-### Call for submissions
 We invite submissions on the following topics:
 
 * Large-scale Earth observation datasets and benchmarks:
@@ -53,7 +50,7 @@ We invite submissions on the following topics:
   - 2D and 3D change detection in urban and rural areas,
   - estimation of biophysical parameters (biomass, biodiversity, soil stress, etc.).
 
-#### Submission process
+<h2 id="submissions">Submission process</h2>
 
 Submission to the TerraBytes workshop is **double-blind**. The workshop accepts short research papers (4 pages, excluding references) and full-length papers (8 pages, excluding references). Authors are required to follow standard ICML paper format ([LaTeX style files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)).
 
@@ -65,13 +62,13 @@ All submissions will be reviewed by at least two reviewers. All papers will be p
 
 It is expected that at least one author of each accepted paper will register for the workshop and present the article during the event. Online presentations will be considered for presenters that are not allowed to come, e.g. to visa or personal constraints. If you have any questions, do not hesitate to contact the organizers (see contacts below).
 
-#### Important dates
+<h2 id="dates">Important dates</h2>
 ---
 * Papers submission deadline: **May 16th, 2025**
 * Papers acceptance notification: June 6, 2025
 * Workshop: July 18/19, 2025
 
-#### Program
+<h2 id="schedule">Program</h2>
 ---
 
 **Morning session**
@@ -92,7 +89,10 @@ It is expected that at least one author of each accepted paper will register for
 * 16:10-17:10: Panel session: Towards global models
 * 17:10-17:20: Closing remarks
 
-### Organizers
+<h2 id="speakers">Speakers</h2>
+---
+
+<h2 id="organizers">Organizers</h2>
 ---
 * [Nicolas Audebert, IGN, CNAM](https://nicolas.audebert.at)
 * [Hossein Azizpour, KTH Royal Institute of Technology](https://www.csc.kth.se/~azizpour/)
@@ -107,7 +107,7 @@ It is expected that at least one author of each accepted paper will register for
 
 **Primary Contacts**: Valerio Marsocci (valerio.marsocci@esa.int), Nicolas Audebert (nicolas.audebert@ign.fr)
 
-### Sponsors
+<h2 id="sponsers">Sponsers</h2>
 ------
 
 We thank CopernicusLAC for their sponsorship of this event.
